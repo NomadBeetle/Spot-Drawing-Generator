@@ -23,7 +23,7 @@ This is a simple Python project that generates a spot painting using the `turtle
 1. Place an `image.jpeg` file in the project directory.
 2. Run the script:
    ```bash
-   python spot_drawing.py
+   python main.py
    ```
 3. Click on the turtle screen to exit.
 
